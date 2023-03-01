@@ -1,6 +1,6 @@
 <?php
-// aritmatika
-$a = 10;
-$b = 20;
+// concat
+$nama_depan = "Eka";
+$nama_belakang = "Yuniar";
 
-echo $a * $b;
+echo $nama_depan . " " . $nama_belakang;
