@@ -1,5 +1,6 @@
-<?php 
-$nama = "Eka Yuniar";
+<?php
+// aritmatika
+$a = 10;
+$b = 20;
 
-echo "Hallo nama saya $nama <br>";
-echo 'Hallo nama saya $nama';
+echo $a + $b;
