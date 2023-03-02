@@ -14,3 +14,12 @@ while ($a < 5) // Kondisi yang bernilai trur
     echo "Hai ini baris ke-$a <br>"; // eksekusi
     $a++; // increment
 }
+
+
+echo "<br><H3>Latihan Do While</H3>";
+// do while
+$b = 0;
+do {
+    echo "Hai ini baris ke-$b <br>";
+    $b++;
+} while ($b < 5);
