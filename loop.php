@@ -11,6 +11,6 @@ echo "<br><H3>Latihan While</H3>";
 $a = 0; // initial statement
 while ($a < 5) // Kondisi yang bernilai trur
 {
-    echo "Urutan ke $a <br>"; // eksekusi
+    echo "Hai ini baris ke-$a <br>"; // eksekusi
     $a++; // increment
 }
