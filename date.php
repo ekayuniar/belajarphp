@@ -1,6 +1,2 @@
 <?php
-echo date("l");
-echo "<br>";
-echo date("d-m-Y");
-echo "<br>";
-echo time();
+echo date("l", mktime(2, 10, 5, 3, 2, 2023));
