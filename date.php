@@ -1,8 +1,8 @@
-<?php 
+<?php
 function salam($waktu, $nama)
 {
     return "Selamat $waktu $nama";
-}
+};
 ?>
 <!DOCTYPE html>
 <html lang="en">
